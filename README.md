@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 <div>
-  <a href="Hello World" target="_blank"><img src="" width="280" height="auto" /></a>
+  <a href="Hello World" target="_blank"><img src="https://i.imgur.com/LJ87Ywn.png" width="280" height="auto" /></a>
   <a href="Hello World" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
   <a href="Hello World" target="_blank"><img src="" width="280" height="auto" /></a>
 </div>
